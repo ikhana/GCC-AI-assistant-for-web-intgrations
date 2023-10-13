@@ -1,6 +1,6 @@
 import React from 'react';
 import background from "../../assets/image/background.png";
-import photo1 from "../../assets/image/photo1.jpg";
+import photo1 from "../../assets/image/CEOESTHER.jpg";
 import anon from "../../assets/image/ANON.png";
 
 const Slide7 = () => {
