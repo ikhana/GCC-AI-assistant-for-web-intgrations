@@ -197,7 +197,7 @@ function App() {
               // {!true ? (
               <>
                 <p className="text-white text-[24px] text-center pt-4 font-extrabold">
-                Welcome to Genuine Cash Conversions, I am Maggie, let's have you brand visualized 
+                Welcome to Genuine  Conversions Cash , I am Maggie, let's have you brand visualized 
                 </p>
                 <p className="text-white text-[22px] text-center pt-4 pb-8">
                   Grab your headphones or tune that volume , Embark with us on a voyage through the digital marketing realm, where your narratives transform into impactful conversions.
